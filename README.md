@@ -34,5 +34,10 @@
     - matplotlib：3.11.0
     - seaborn：0.13.2
     - scipy：1.17.1
+
+## 参考
+本项目来源于和鲸社区，使用转载需要标注来源
+作者: 代维
+来源: https://www.heywhale.com/mw/project/69987eec9bb7c0d2d559ed2e
 - 开发工具：Jupyter Notebook
 
