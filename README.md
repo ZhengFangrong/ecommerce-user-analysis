@@ -37,6 +37,6 @@
     - 开发工具：Jupyter Notebook
 
 ## 参考
-本项目来源于和鲸社区，使用转载需要标注来源
+本项目参考来源于和鲸社区
 作者: 代维
 来源: https://www.heywhale.com/mw/project/69987eec9bb7c0d2d559ed2e
